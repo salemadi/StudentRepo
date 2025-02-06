@@ -7,7 +7,6 @@ void testMethod1()
 //  Edit made by Shahd_220036746.
 // Edit made by Shahd_220036746 in GitPod
 
-
   //Last line print('Good bye')
 }
 
